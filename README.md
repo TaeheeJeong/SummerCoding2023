@@ -11,7 +11,7 @@ Summer Coding School 2023
 
 - 2nd session: 10:30am to 12:00pm
 
-### instructor: 
+### Instructor: 
 
 Dr. Taehee Jeong
 
