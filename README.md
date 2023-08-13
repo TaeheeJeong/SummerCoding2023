@@ -15,9 +15,12 @@ Summer Coding School 2023
 
 Dr. Taehee Jeong
 
+### Assistant Instructor: 
+
+Joseph Jeong
+
 ### Teaching assistants: 
 
-- Joseph Jeong, <br>
 - Joshua Jeong, <br>
 - Shen Kim, <br>
 - Tom Jung, <br>
