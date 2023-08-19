@@ -1,6 +1,8 @@
 # SummerCoding2023
 Summer Coding School 2023
 
+![alt text](https://github.com/TaeheeJeong/SummerCoding2023/blob/main/coding_school_host.png?raw=true)
+
 - date: 7/29~9/2, every Saturday
 
 - place:  KIC/Kotra, 3003 N First St, San Jose, CA 95134
